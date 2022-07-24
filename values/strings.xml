@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Tech Quiz</string>
+    <string name="enter_your_name">Enter your Name</string>
+    <string name="todo">TODO</string>
+    <string name="submit">Submit</string>
+    <string name="question">Tech Quiz</string>
+    <string name="button">Button</string>
+    <string name="textview">TextView</string>
+</resources>
